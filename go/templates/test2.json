@@ -1,0 +1,14 @@
+{
+  "vagrant": {
+    "opendj_servers": [
+      { "host": "1.1.1.1", "port": 8080 },
+      { "host": "2.2.2.2", "port": 8443 }
+    ]
+  },
+  "gce_prod": {
+    "opendj_servers": [
+      { "host": "test1", "port": 8080 },
+      { "host": "test2", "port": 8443 }
+    ]
+  }
+}
